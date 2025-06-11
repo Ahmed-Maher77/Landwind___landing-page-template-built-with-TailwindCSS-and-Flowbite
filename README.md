@@ -6,7 +6,7 @@
 
 ## 🌐 Demo (Live Preview)
 
-**👉 View Live Preview:** []()
+**👉 View Live Preview:** [https://ahmed-maher77.github.io/Landwind___landing-page-template-built-with-TailwindCSS-and-Flowbite/](https://ahmed-maher77.github.io/Landwind___landing-page-template-built-with-TailwindCSS-and-Flowbite/)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 👀 Website Preview
 
-<a href="website-url" title="demo">
+<a href="https://ahmed-maher77.github.io/Landwind___landing-page-template-built-with-TailwindCSS-and-Flowbite/" title="demo">
   <img src="uploaded-img-on-github-readme" alt="website preview" width="400">
 </a>
 
